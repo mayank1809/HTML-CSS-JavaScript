@@ -1,0 +1,25 @@
+## Tags in HTML
+before tags one thing thing you should know is how to comments in html, we can comment in HTML using this <!-- Hello this is a comment-->  
+Now  we start with tags basically in html we have a lot of tags but the most frequent are:
+
+# 1- <h1> </h1> use for heading tag
+    in heading tag there 6-7 levels <h1>  <h2> <h3> <h4> <h5> <h6> wiht different size of heading and subheading 
+
+# 2- paragraph tag <p> </p>
+   same as name
+
+# 3- anchor tags <a> </a>
+  we need them to provide additional information
+  <a href="link" > this is the link of my site</a>  
+  <a target = "_blank"> This is the link it will open on new tab </a> in  this there are three things _blank , _self this means same tab , _parent this means load URL into the parent browsing if no parent it will behave same as _self,_top this will load the URL into the top level browsing context
+# 4- Button tag <button> </button>
+  it will create a button for our web page 
+# 5- Bold tag <b> </b>
+# 6- Image tag <img src ="URL" >
+# 7- Video tag <video controls> <source src"link"> </video>  here controls is the attribute  (what is attribute-additonal information to the html code)
+# 8= Audio tag <audio> <soruce src" link" > </audio>
+# 9- Input tag <input type " ">  (here in this space we can give text,color,button,date,datetimelocal,email,file,hidden,image,month,number,password,radio,range,reset,search,submit,time)
+
+      that's all for HTML tags you can see the implementation part in tag.html file 
+
+Thank you Happy Coding
